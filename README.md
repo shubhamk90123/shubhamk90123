@@ -7,17 +7,17 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👯 I’m looking to collaborate on **open Sourse**
+- 👯 I’m looking to collaborate on **open source**
 
 - 🤝 I’m looking for help with **Portfolio**
 
-- 👨‍💻 All of my projects are available at [here only](here only)
+- 👨‍💻 All of my projects are available **here only**
 
-- 💬 Ask me about **React,GSAP,Motion,Node ,MongoDb, JavaScript**
+- 💬 Ask me about **React, GSAP, Motion, Node, MongoDB, JavaScript**
 
 - 📫 How to reach me **shubhamk90123@gmail.coim**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DjAqAYf3Q_rP7wyqLaIgmvjZerDWWjNh](https://drive.google.com/drive/folders/1DjAqAYf3Q_rP7wyqLaIgmvjZerDWWjNh)
+- 📄 Know about my experiences https://drive.google.com/drive/folders/1DjAqAYf3Q_rP7wyqLaIgmvjZerDWWjNh
 
 - ⚡ Fun fact **I think I can be a comedian**
 
