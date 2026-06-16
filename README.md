@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shubhamk90123@gmail.coim**
 
-- 📄 Know about my experiences https://drive.google.com/drive/folders/1DjAqAYf3Q_rP7wyqLaIgmvjZerDWWjNh
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **I think I can be a comedian**
 
