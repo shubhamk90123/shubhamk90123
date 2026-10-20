@@ -1,29 +1,115 @@
-<h1 align="center">Hi 👋, I'm Shubham Kamble</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · shubhamk90123</sub></p>
+<h1>shubhamk90123</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-- 🔭 I’m currently working on **my personal portfolio**
+<p><a href="https://github.com/shubhamk90123">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/64568273?u=b0a6c42f2eaa97028a058c0c3b8560b623eb72e0&amp;v=4" width="180" alt="shubhamk90123 GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-- 🌱 I’m currently learning **Next.Js**
+<h2>What teams can evaluate quickly</h2>
 
-- 👯 I’m looking to collaborate on **open source**
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · EJS · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>16 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>195 contributions · 55 active days</p></td>
+</tr>
+</table>
 
-- 🤝 I’m looking for help with **Portfolio**
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-- 👨‍💻 All of my projects are available **here only**
+<h2>Proof at a glance</h2>
 
-- 💬 Ask me about **React, GSAP, Motion, Node, MongoDB, JavaScript**
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>16</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>195</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-- 📫 How to reach me **shubhamk90123@gmail.coim**
-
-- 📄 Know about my experiences
-
-- ⚡ Fun fact **I think I can be a comedian**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shubham-kamble-1b5569289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-kamble-1b5569289/" height="30" width="40" /></a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=shubhamk90123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64568273%3Fu%3Db0a6c42f2eaa97028a058c0c3b8560b623eb72e0%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=shubhamk90123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64568273%3Fu%3Db0a6c42f2eaa97028a058c0c3b8560b623eb72e0%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="shubhamk90123 GitHub proof metrics" />
+</picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=shubhamk90123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64568273%3Fu%3Db0a6c42f2eaa97028a058c0c3b8560b623eb72e0%26v%3D4&repos=shubhamk90123%2Fflowaria-protfolio%2Cshubhamk90123%2Frubrik%2Cshubhamk90123%2FPortfolio-using-stitch-MCP%2Cshubhamk90123%2FEvent-Management-system&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=shubhamk90123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64568273%3Fu%3Db0a6c42f2eaa97028a058c0c3b8560b623eb72e0%26v%3D4&repos=shubhamk90123%2Fflowaria-protfolio%2Cshubhamk90123%2Frubrik%2Cshubhamk90123%2FPortfolio-using-stitch-MCP%2Cshubhamk90123%2FEvent-Management-system&v=recruiter-projects-1&mode=dark" width="100%" alt="shubhamk90123 selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/shubhamk90123/flowaria-protfolio">flowaria-protfolio</a></h3>
+<p>A selected public project.</p>
+<p><sub>HTML · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/shubhamk90123/flowaria-protfolio">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/shubhamk90123/rubrik">rubrik</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/shubhamk90123/Portfolio-using-stitch-MCP">Portfolio-using-stitch-MCP</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/shubhamk90123/Event-Management-system">Event-Management-system</a></h3><p>A selected public project.</p><p><sub>EJS · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=shubhamk90123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64568273%3Fu%3Db0a6c42f2eaa97028a058c0c3b8560b623eb72e0%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=shubhamk90123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64568273%3Fu%3Db0a6c42f2eaa97028a058c0c3b8560b623eb72e0%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="shubhamk90123 technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>25% of public code</sub></td>
+<td width="20%" align="center"><strong>EJS</strong><br /><sub>25% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>23% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>15% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>13% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=shubhamk90123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64568273%3Fu%3Db0a6c42f2eaa97028a058c0c3b8560b623eb72e0%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=shubhamk90123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64568273%3Fu%3Db0a6c42f2eaa97028a058c0c3b8560b623eb72e0%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="shubhamk90123 contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/shubhamk90123">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>shubhamk90123 · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
