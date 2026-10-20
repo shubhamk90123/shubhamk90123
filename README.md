@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · Shubham Kamble</sub></p>
 <h1>Shubham Kamble</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full-stack engineer</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · EJS · CSS</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Full-stack engineer · JavaScript · EJS · CSS</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>16 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>195 contributions · 55 active days</p></td>
 </tr>
