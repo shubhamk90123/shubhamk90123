@@ -3,8 +3,8 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · shubhamk90123</sub></p>
-<h1>shubhamk90123</h1>
+<p><sub>RECRUITER SIGNAL BRIEF · Shubham Kamble</sub></p>
+<h1>Shubham Kamble</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
